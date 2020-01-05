@@ -42,7 +42,7 @@ terminal-border: "0"
   top = 100%-24
   width = 100%
   align = "center"
-  text = "Use ↑ and ↓ keys to change selection, Enter to confirm"
+  text = "Použijte klávesy ↑ a ↓ pro výběr, Enter pro potvrzení"
   color = "#777777"
   font = "Unifont Regular 18"
 }

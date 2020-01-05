@@ -9,7 +9,7 @@ GRUB_DIR='grub'
 UPDATE_GRUB='update-grub'
 
 echo 'Fetching theme archive'
-wget https://github.com/ds1david/${THEME}/archive/master.zip
+wget https://github.com/Sawy7/${THEME}/archive/master.zip
 
 echo 'Unpacking theme'
 unzip master.zip

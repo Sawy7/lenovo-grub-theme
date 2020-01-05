@@ -1,7 +1,7 @@
-## Lenovo GRUB theme
+## Lenovo GRUB theme (CZ popisky)
 
 ![](https://i.imgur.com/hiLenzG.png)
 
-### Instalação:
+### Instalace / Installation:
 
-    wget -O - https://github.com/ds1david/lenovo-grub-theme/raw/master/install.sh | bash
+    wget -O - https://github.com/Sawy7/lenovo-grub-theme/raw/master/install.sh | bash
